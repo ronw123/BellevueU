@@ -1,0 +1,28 @@
+<h5>Blackboard Formatting, Spell Check and Content Editor</h5>
+<p>Working in Blackboard can sometimes be tricky.&nbsp; <br />To learn more about how to use it, see the Blackboard tips at <a rel="noopener" href="https://help.blackboard.com/Learn/Student/Add_and_Format_Content/Work_with_Text" target="_blank">https://help.blackboard.com/Learn/Student/Add_and_Format_Content/Work_with_Text</a>. There are also a couple of tip sheets attached to this post.&nbsp;</p>
+<ol>
+<li>You can use the <b>Preview function</b> to see how your post will look.&nbsp;</li>
+</ol>
+<p style="padding-left: 40px;"><img height="34" width="82" src="https://github.com/ronw123/BellevueU/blob/main/Blackboard%20Formatting%20v2_files/image001.png?raw=true" alt="image001.png" /></p>
+<ol start="2">
+<li>The <b>Clear Formatting function</b> is used to remove formatting. Highlight the text that needs fixing and select the Clear Formatting icon.</li>
+</ol>
+<p style="padding-left: 40px;"><img height="41" width="109" src="https://github.com/ronw123/BellevueU/blob/main/Blackboard%20Formatting%20v2_files/image003.png?raw=true" alt="image003.png" /></p>
+<ol start="3">
+<li><strong>Spell check is NOT on by default</strong>. Please remember to manually click the spell check icon before you post.&nbsp;</li>
+</ol>
+<p style="padding-left: 40px;"><img height="43" width="170" src="https://github.com/ronw123/BellevueU/blob/main/Blackboard%20Formatting%20v2_files/image005.png?raw=true" alt="image005.png" /></p>
+<ol start="4">
+<li>You add images, videos or other files by using the <b>Add Content</b> function. In the Editor, find the <b>Add Content button</b> and click on it.</li>
+</ol>
+<p style="padding-left: 40px;"><img height="45" width="110" src="https://github.com/ronw123/BellevueU/blob/main/Blackboard%20Formatting%20v2_files/image006.png?raw=true" alt="image006.png" /></p>
+<p style="padding-left: 40px;">Once the Add Content menu opens, click on the <strong>Insert Local Files</strong> option and navigate to the location where your image is currently stored.</p>
+<p style="padding-left: 40px;"><img height="216" width="270" src="https://github.com/ronw123/BellevueU/blob/main/Blackboard%20Formatting%20v2_files/image009.jpg?raw=true" alt="image009.jpg" /></p>
+<p style="padding-left: 40px;">Select the image file you want to add and click Open to complete the process.</p>
+<p></p>
+<ol start="5">
+<li>You may encounter issues with the way your completed assignment document looks in the system after you submit it. The <b>System Preview</b> is different than your actual document. When I'm assessing / grading your work, I use the actual document, not the preview. Below is an example:</li>
+</ol>
+<p style="padding-left: 40px;"><img height="285" width="380" src="https://github.com/ronw123/BellevueU/blob/main/Blackboard%20Formatting%20v2_files/image011.jpg?raw=true" alt="image011.jpg" /></p>
+<p>If you mess up something like a discussion post, let me know right away. It's often easily fixed when addressed early and I won't take off points if you do.&nbsp;</p>
+<p>Please ask questions ("How do I do ....?") as you have them.&nbsp;</p>
